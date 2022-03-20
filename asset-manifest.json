@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Contacts-Manager/static/css/main.baa9cb7f.css",
-    "main.js": "/Contacts-Manager/static/js/main.ba67bbab.js",
+    "main.js": "/Contacts-Manager/static/js/main.d1ab4c6f.js",
     "static/media/spinner.gif": "/Contacts-Manager/static/media/spinner.ece48b522b0fd1593554.gif",
     "static/media/fa-solid-900.ttf": "/Contacts-Manager/static/media/fa-solid-900.79da213423ac0def2058.ttf",
     "static/media/fa-brands-400.ttf": "/Contacts-Manager/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/Contacts-Manager/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
     "index.html": "/Contacts-Manager/index.html",
     "main.baa9cb7f.css.map": "/Contacts-Manager/static/css/main.baa9cb7f.css.map",
-    "main.ba67bbab.js.map": "/Contacts-Manager/static/js/main.ba67bbab.js.map"
+    "main.d1ab4c6f.js.map": "/Contacts-Manager/static/js/main.d1ab4c6f.js.map"
   },
   "entrypoints": [
     "static/css/main.baa9cb7f.css",
-    "static/js/main.ba67bbab.js"
+    "static/js/main.d1ab4c6f.js"
   ]
 }
